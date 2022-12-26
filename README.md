@@ -1,6 +1,6 @@
 # PNS com o uso do R: estimativas ponderadas na Pesquisa Nacional de Saúde
 
-![](logo_carcara.jpg){width=2in}
+![](logo_carcara.jpg)
 
 Repositório do *e-book* **"PNS com o uso do R: Estimativas ponderadas na Pesquisa Nacional de Saúde"**.
 
