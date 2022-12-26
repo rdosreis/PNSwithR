@@ -1,0 +1,7 @@
+# Sistemas de pesos e estimadores ponderados
+
+## Delineamentos de levantamentos por amostragem 
+
+## Sistema de pesos básicos de amostragem
+
+## Sistema de pesos calibrados

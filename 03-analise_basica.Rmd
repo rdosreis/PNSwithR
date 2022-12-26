@@ -1,0 +1,9 @@
+# Análise básica dos dados da PNS
+
+## O pacote `PNSIBGE`
+
+## Os pacotes `survey` e `srvyr`
+
+## Estimativa de médias, totais e prevalências populacionais
+
+## Estimativas em subpopulações
